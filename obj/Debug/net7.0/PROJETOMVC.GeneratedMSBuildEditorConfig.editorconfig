@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PROJETOMVC
 build_property.RootNamespace = PROJETOMVC
-build_property.ProjectDir = d:\Projetos\PROJETOMVC\
+build_property.ProjectDir = D:\Projetos\PROJETOMVC\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\Projetos\PROJETOMVC
+build_property.MSBuildProjectDirectory = D:\Projetos\PROJETOMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/Projetos/PROJETOMVC/Views/Home/Index.cshtml]
+[D:/Projetos/PROJETOMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Projetos/PROJETOMVC/Views/Home/Privacy.cshtml]
+[D:/Projetos/PROJETOMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Projetos/PROJETOMVC/Views/Shared/Error.cshtml]
+[D:/Projetos/PROJETOMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Projetos/PROJETOMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Projetos/PROJETOMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Projetos/PROJETOMVC/Views/_ViewImports.cshtml]
+[D:/Projetos/PROJETOMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Projetos/PROJETOMVC/Views/_ViewStart.cshtml]
+[D:/Projetos/PROJETOMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Projetos/PROJETOMVC/Views/Shared/_Layout.cshtml]
+[D:/Projetos/PROJETOMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ir2fcwzwf8
