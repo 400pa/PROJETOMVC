@@ -1,6 +1,11 @@
 
 using Microsoft.AspNetCore.Mvc;
 using PROJETOMVC.Context;
+using System.Diagnostics;
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using System.Linq;
 
 namespace PROJETOMVC.Controllers
 {
@@ -16,6 +21,11 @@ namespace PROJETOMVC.Controllers
         {
             var contatos = _context.Contatos.ToList();
             return View(contatos);
+        }
+
+        public IActionResult Criar()
+        {
+            return View();
         }
     }
 }
