@@ -24,7 +24,12 @@
                      <th>
                         @Html.DisplayNameFor(model =>model.Ativo)
                     </th>
-                </tr>
+                    <th>
+                        
+                    </th>
+                    </tr>
+                    
+                
             </thead>
             <tbody>
                 @foreach (var item in Model)
@@ -41,9 +46,9 @@
                             @Html.DisplayFor(model =>item.Ativo)
                         </td>
                         <td>
-                            <a asp-action="Editar" asp-route-id="item.id">Editar</a> |
-                            <a asp-action="Detalhes" asp-route-id="item.id">Detalhes</a> |
-                            <a asp-action="Deletar" asp-route-id="item.id">Deletar</a>
+                            <a asp-action="Editar" asp-route-id="@item.id">Editar</a> |
+                            <a asp-action="Detalhes" asp-route-id="@item.id">Detalhes</a> |
+                            <a asp-action="Deletar" asp-route-id="@item.id">Deletar</a>
                             
                         </td>;
                     </tr>
